@@ -7,7 +7,7 @@ image: ryanyogan/alpha
 # Deploy to these servers.
 servers:
   web:
-    - 198.199.73.72
+    - 165.227.197.185
   # job:
   #   hosts:
   #     - 192.168.0.1
